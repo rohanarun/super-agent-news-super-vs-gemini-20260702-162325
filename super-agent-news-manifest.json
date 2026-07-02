@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/)",
+    "[blog.google](https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/)",
+    "[pcmag.com](https://me.pcmag.com/en/macos/37597/gemini-spark-is-now-available-on-macos-heres-everything-the-ai-agent-can-do)",
+    "[theverge.com](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px max-width, 2\u20133 line flow verified; AIDA=Attention(hero),Interest(compare),Desire(cache),Action(CTA); bento_density=grid-auto-flow:dense present; label_sweep=all tracked competitors mentioned; button_contrast=ink/white checked",
+  "generated_at": "2026-07-02T16:23:32.672800+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "Gemini is Google\u2019s ambitious AI assistant, now pushing into desktop automation with Gemini Spark on macOS. Super is built for people who want durable personal AI agents that actually operate computers \u2014 and reuse a computer-use cache so repeated workflows get faster and cheaper over time. This page compares what Gemini is great at today, where it fits best, and why Super is the sharper alternative for repeated computer-use work."
+}
